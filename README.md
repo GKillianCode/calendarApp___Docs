@@ -91,7 +91,7 @@ Une version démo sera prochainement disponible en ligne.
 
 - 📄 [Cahier des charges](#) _(à venir)_
 - 📄 [Architecture technique](#) _(à venir)_
-- 📄 [Roadmap détaillée](#) _(à venir)_
+- 📄 [Roadmap détaillée](roadmap.md)
 
 ---
 
