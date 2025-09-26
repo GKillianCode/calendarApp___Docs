@@ -18,7 +18,7 @@ L’application permettra :
 
 - 🔗 [Backend – Symfony + PostgreSQL](#) _(à venir)_
 - 🔗 [Frontend – Vue.js 3 + Tailwind](#) _(à venir)_
-- 🔗 [Documentation (ce repo)](#) _(à venir)_
+- 🔗 [Documentation (ce repo)](https://github.com/GKillianCode/calendarApp___Docs) _(à venir)_
 
 ---
 
@@ -89,9 +89,9 @@ Une version démo sera prochainement disponible en ligne.
 
 ## 📚 Documentation détaillée
 
-- 📄 [Cahier des charges](cahier-des-charges.md) _(à venir)_
+- 📄 [Cahier des charges](1-SOURCES/cahier-des-charges.md) _(à venir)_
 - 📄 [Architecture technique](#) _(à venir)_
-- 📄 [Roadmap détaillée](roadmap.md)
+- 📄 [Roadmap détaillée](8-ANNEXES/roadmap.md)
 
 ---
 
