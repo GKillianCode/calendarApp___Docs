@@ -89,7 +89,7 @@ Une version démo sera prochainement disponible en ligne.
 
 ## 📚 Documentation détaillée
 
-- 📄 [Cahier des charges](#) _(à venir)_
+- 📄 [Cahier des charges](cahier-des-charges.md) _(à venir)_
 - 📄 [Architecture technique](#) _(à venir)_
 - 📄 [Roadmap détaillée](roadmap.md)
 
