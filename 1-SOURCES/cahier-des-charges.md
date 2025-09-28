@@ -61,3 +61,9 @@ Le projet a également pour but de :
 - **Lot 6** : Réunions avec invitations
 
 ---
+
+## 👤 Auteur
+
+Développé par **Killian GODET**  
+Backend developer spécialisé Symfony  
+🌐 [https://killiangodet.fr](https://killiangodet.fr)

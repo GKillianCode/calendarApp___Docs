@@ -98,4 +98,5 @@ Une version démo sera prochainement disponible en ligne.
 ## 👤 Auteur
 
 Développé par **Killian GODET**  
-Backend developer spécialisé Symfony • Portfolio : [https://killiangodet.fr](https://killiangodet.fr)
+Backend developer spécialisé Symfony  
+🌐 [https://killiangodet.fr](https://killiangodet.fr)

@@ -85,3 +85,9 @@
 - 6.7 – Gestion des récurrences et impact sur les conflits
 
 ---
+
+## 👤 Auteur
+
+Développé par **Killian GODET**  
+Backend developer spécialisé Symfony  
+🌐 [https://killiangodet.fr](https://killiangodet.fr)
