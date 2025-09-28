@@ -89,7 +89,8 @@ Une version démo sera prochainement disponible en ligne.
 
 ## 📚 Documentation détaillée
 
-- 📄 [Cahier des charges](1-SOURCES/cahier-des-charges.md) _(à venir)_
+- 📄 [Cahier des charges](1-SOURCES/cahier-des-charges.md)
+- 📄 [Document des spécifications fonctionnelles](2-ANALYSES/DSF-1.0.md)
 - 📄 [Architecture technique](#) _(à venir)_
 - 📄 [Roadmap détaillée](8-ANNEXES/roadmap.md)
 
